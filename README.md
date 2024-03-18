@@ -30,7 +30,17 @@ This project is a data visualisation dashboard for exploring belly button biodiv
 
 ## Usage
 
-1. Open the `index.html` file in your web browser.
-2. Use the dropdown menu to select a test subject and explore their data.
-3. Interact with the charts to visualise different aspects of the data.
+To run the HTML file along with its associated resources locally on your computer, follow these steps:
+
+1. **Download the files**: Download the HTML file (`index.html`) along with any associated files (`.js`) that are referenced in the HTML file. Ensure that all files are stored in the same directory or folder.
+
+2. **Open the HTML file in a web browser**: Double-click on the HTML file (`index.html`) to open it in a web browser of your choice. The browser will render the HTML content, and if there are any associated JavaScript files linked properly, they will be applied as well.
+
+3. **Check the browser console for errors**: If any of the linked JavaScript files are not found or if there are errors in the files, they will be reported in the browser's developer console. You can access the developer console by right-clicking on the page and selecting "Inspect" or pressing `Ctrl + Shift + I` (Windows/Linux) or `Cmd + Option + I` (Mac) and then navigating to the "Console" tab.
+
+4. **Debug any issues**: If there are errors reported in the console, you'll need to debug them by checking the paths to the linked files in the HTML file and ensuring they are correct, as well as fixing any syntax errors or issues in the JavaScript or CSS files.
+
+By following these steps, you should be able to run the HTML file along with its associated resources locally on your computer.
+
+
 
